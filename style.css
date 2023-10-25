@@ -44,13 +44,23 @@ img{
     border-radius: 5px; 
     max-width: 100%;
 }
+figure {
+    text-align: center;
+}
 figcaption{
     font-size: 0.83em;
     text-align: center;
+    font-style: italic;
 }
 .text{
     margin: 10px;
     padding: 10px;
+}
+.quote{
+    border-left: 3px solid lightseagreen;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
 }
 
 table{
@@ -97,4 +107,19 @@ tbody tr:hover{
     max-width: 80%;
     height: 10%;
     text-align: center;
+}
+
+h4 {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: disc; /* Puces */
+    padding-left: 20px; /* Espacement à gauche */
+    margin: 10px 0;
+}
+
+li {
+    margin: 5px 0;
 }
