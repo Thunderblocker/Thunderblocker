@@ -4,6 +4,7 @@
 
 body{
     margin: 1% 2%;
+    background-color: lightgray;
 }
 
 .header{
@@ -12,6 +13,21 @@ body{
     justify-content: center;
     margin-bottom: 5px;
 }
+.header h1{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: red;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: aqua;
+}
+
 
 .top{
     display: flex;
@@ -20,13 +36,51 @@ body{
     justify-content: center;
 }
 
+img{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: red;
+}
 .text{
     margin: 10px;
     padding: 10px;
 }
 
 table{
-    border: 2px;
-    border-style: solid;
     margin: 10px;
+    padding: 10px;
+    border-collapse: collapse;
+    border: 1px solid;
+    background-color: black;
+}
+
+table thead{
+    background-color: black;
+}
+
+#headTable{
+    background-color: black;
+    color: whitesmoke;
+}
+tbody tr:nth-child(odd) {
+    background-color: whitesmoke;
+}
+  
+tr:nth-child(even) {
+    background-color: slategray;
+}
+tbody tr:hover{
+    background-color: rgb(58, 58, 58);
+}
+.sectionTitle{
+    color: red;
+}
+
+.emp{
+    margin: 10px;
+    padding: 10px;
+    color: rgb(63, 58, 128);
+    border: dashed 3px lightseagreen;
+    background-color: rgb(170, 170, 170);
 }
