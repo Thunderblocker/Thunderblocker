@@ -1,25 +1,37 @@
-# Alexandre Bouirik, Assistant de Direction
+# Alexandre Bouirik, Front-End / Web Developer 
 
-## À propos de moi
-Je suis très dévoué(e) et excellent(e) pour organiser les choses.
+## About Me
+Orderly and rigorous, diversifying and improving my skills has become a form of passion. 
 
-## Expérience
+Fond of tech and computer science since my young years I explored in a personal or professional way various aspects of the computer creation: design 2d/3d, video games, virtual reality, virtual visit, website...
 
-- Optimisation des Processus de Bureau (2021-Présent)
-- Soutien Exécutif (2019-2021)
-- Optimisation des Processus Administratifs (2018-2019)
-- Gestion d'Événements d'Entreprise (2015-2018)
+Always enthusiastic to discover new things and meet new people, my travels and experiences have allowed me to develop a profound sense of empathy.
 
-## Compétences
+## Experience
 
-- Gestion du Temps
+- Web / Front Dev Freelance (2021 - now)
+- Mathematics Teacher in Secondary School @EFIT Tirana, Albania (2021 - 2022)
+- Web / Front Dev @Liberty-Dev HCMC, Vietnam (2017 - 2021)
+
+## Skills
+
+- Web Development
+  - UI/UX design
+  - Creation of wireframes and mockups
+  - HTML5 / CSS3 (+Bootstrap)
+  - Javascript
+  - React
+  - ...
 - Communication
-- Gestion de l'espace de Travail
-- Résolution de Problèmes
-- Analyse des Données Administratives
-- Gestion de la Logistique
-- Plannification Stratégique
+- Attentive Observer
+- Self-Learner
+- Passion for technology and computer science
+- Proficiency in various aspects of computer creation, including 2D/3D design, video 
+- Enthusiasm for learning and meeting new people
 
+## 📫 How to reach me:
+
+- LinkedIn [in/AlexandreBouirik](https://www.linkedin.com/in/alexandrebouirik/)
 <!--
 **Thunderblocker/Thunderblocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
