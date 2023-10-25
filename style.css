@@ -1,21 +1,22 @@
 *{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body{
-    margin: 1% 2%;
+    margin: 10px auto;
+    background-color: lightgray;
+    max-width: 1080px;
     background-color: lightgray;
 }
 
 .header{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
     margin-bottom: 5px;
 }
 .header h1{
     font-size: 3em;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 a{
@@ -37,10 +38,15 @@ a:hover{
 }
 
 img{
-    border: 2px;
-    border-style: solid;
-    border-radius: 5px;
-    border-color: red;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid red;
+    border-radius: 5px; 
+    max-width: 100%;
+}
+figcaption{
+    font-size: 0.83em;
+    text-align: center;
 }
 .text{
     margin: 10px;
@@ -48,15 +54,15 @@ img{
 }
 
 table{
-    margin: 10px;
-    padding: 10px;
+    margin: 10px auto;
     border-collapse: collapse;
-    border: 1px solid;
-    background-color: black;
+    width: 100%;
 }
 
 table thead{
     background-color: black;
+    width: 100%;
+    
 }
 
 #headTable{
@@ -77,10 +83,18 @@ tbody tr:hover{
     color: red;
 }
 
-.emp{
+#protocole{
     margin: 10px;
-    padding: 10px;
+   
+}
+
+.emp{
+    margin: 10px auto;
+    padding: 20px;
     color: rgb(63, 58, 128);
-    border: dashed 3px lightseagreen;
+    border: 3px dashed lightseagreen;
     background-color: rgb(170, 170, 170);
+    max-width: 80%;
+    height: 10%;
+    text-align: center;
 }
