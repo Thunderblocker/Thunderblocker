@@ -1,4 +1,4 @@
-# Alexandre Bouirik, Front-End / Web Developer 
+# Alexandre Bouirik, Developer Java Fullstack  
 
 ## About Me
 Orderly and rigorous, diversifying and improving my skills has become a form of passion. 
@@ -15,6 +15,10 @@ Always enthusiastic to discover new things and meet new people, my travels and e
 
 ## Skills
 
+- Java
+  - Hibernate
+  - Spring
+  - ...
 - Web Development
   - UI/UX design
   - Creation of wireframes and mockups
@@ -27,11 +31,24 @@ Always enthusiastic to discover new things and meet new people, my travels and e
 - Self-Learner
 - Passion for technology and computer science
 - Proficiency in various aspects of computer creation, including 2D/3D design, video 
-- Enthusiasm for learning and meeting new people
+- Enthusiasm for learning 
 
 ## 📫 How to reach me:
 
 - LinkedIn [in/AlexandreBouirik](https://www.linkedin.com/in/alexandrebouirik/)
+
+
+
+## 🔭 I’m currently working on ...
+
+A small chat app made in java for the back and angular for the front
+
+
+
+## 🌱 I’m currently learning
+
+Spring Security (my project was working before it)
+
 <!--
 **Thunderblocker/Thunderblocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
